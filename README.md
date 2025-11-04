@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LuccaMontarroyos/LuccaMontarroyos/main/assets/readme_banner.png" alt="Olá, eu sou Lucca Barros! Desenvolvedor Full-Stack." />
+  <img src="https://raw.githubusercontent.com/LuccaMontarroyos/LuccaMontarroyos/main/readme_banner.png" alt="Olá, eu sou Lucca Barros! Desenvolvedor Full-Stack." />
 </div>
 
 <div align="center">
@@ -47,7 +47,6 @@
   <img align="center" alt="Sequelize" title="Sequelize" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Docker" title="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
  
 ---
@@ -74,8 +73,8 @@
   <a href="https://github.com/LuccaMontarroyos/pokedex-app-quest-react-avancado" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuccaMontarroyos&repo=pokedex-app-quest-react-avancado&theme=tokyonight&show_owner=true" alt="Marketplace Project" />
   </a>
-  <a href="https://github.com/LuccaMontarroyos/IP-Address-Tracker" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuccaMontarroyos&repo=IP-Address-Tracker&theme=tokyonight&show_owner=true" alt="Marketplace Project" />
+  <a href="https://github.com/LuccaMontarroyos/movieflix-api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuccaMontarroyos&repo=movieflix-api&theme=tokyonight&show_owner=true" alt="Marketplace Project" />
   </a>
   </p>
 
