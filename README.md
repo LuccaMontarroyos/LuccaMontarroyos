@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LuccaMontarroyos/LuccaMontarroyos/main/readme_banner.png" alt="Olá, eu sou Lucca Barros! Desenvolvedor Full-Stack." />
+  <img src="https://raw.githubusercontent.com/LuccaMontarroyos/LuccaMontarroyos/main/assets/readme_banner.png" alt="Olá, eu sou Lucca Barros! Desenvolvedor Full-Stack." />
 </div>
 
 <div align="center">
