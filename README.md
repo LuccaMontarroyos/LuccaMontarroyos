@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LuccaMontarroyos/LuccaMontarroyos/main/assets/readme_banner.png" alt="Olá, eu sou Lucca Barros! Desenvolvedor Full-Stack." />
+  <img src="https://raw.githubusercontent.com/LuccaMontarroyos/LuccaMontarroyos/main/assets/banner.png" alt="Hi, I'am Lucca Barros! Fullstack Developer" />
 </div>
 
 <div align="center">
@@ -19,42 +19,51 @@
 
 ---
 
-### 👋 Sobre Mim
- 
+## 👋 About Me
+
 <p align="center">
-  👋 Olá! Sou Lucca, um desenvolvedor fullstack apaixonado por criar soluções inovadoras.
+  Hi! I'm Lucca, a <strong>Fullstack Developer</strong> with a strong focus on <strong>backend development using Node.js</strong>.
   <br><br>
-  Com uma base sólida em <strong>Ciências da Computação</strong> e experiência prática, mergulho de cabeça no ecossistema JavaScript/TypeScript. Minha paixão é transformar ideias em realidade, desde o frontend interativo com <strong>React</strong> e <strong>Next.js</strong> até o robusto backend com <strong>Node.js</strong> (Express/NestJS), integrando dados com <strong>Prisma</strong>, <strong>Drizzle</strong> e <strong>Sequelize</strong>.
+  I have hands-on experience building <strong>RESTful APIs</strong>, implementing <strong>authentication and authorization</strong>, handling <strong>business rules</strong>, and integrating <strong>relational databases</strong>.
+  <br><br>
+  On the frontend, I work mainly with <strong>React</strong> and <strong>Next.js</strong>, building responsive, component-based interfaces focused on usability and maintainability.
+  <br><br>
+  I currently work on corporate web and mobile systems, contributing to internal platforms used at scale, always aiming for clean code, clear architecture, and real business impact.
 </p>
  
 ---
  
-### 🛠️ Minhas Ferramentas
+## 🛠️ Core Tech Stack
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 10px; padding: 10px;">
-  <img align="center" alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML5" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="React" title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Angular" title="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
-  <img align="center" alt="Node.js" title="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" title="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Next.js" title="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="NestJS" title="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Prisma" title="Prisma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
-  <img align="center" alt="Drizzle" title="Drizzle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drizzle/drizzle-original.svg">
-  <img align="center" alt="Sequelize" title="Sequelize" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+### Backend
+- **Node.js**
+- **Express**
+- **TypeScript**
+- **Prisma**
+- **REST APIs**
+- **JWT Authentication**
+
+### Frontend
+- **React**
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+
+### Database
+- **PostgreSQL**
+
+### Tools & Practices
+- **Git & GitHub**
+- **API Documentation (Swagger)**
+- **MVC Architecture**
+- **Clean Code & Modular Design**
  
 ---
  
-### 🚀 Meus Projetos
+## 🚀 Featured Projects
 
 <p align="center">
-  Confira alguns dos meus projetos que demonstram minhas habilidades full-stack:
+  Projects that best represent my current technical level and professional focus:
   <br><br>
   <a href="https://github.com/LuccaMontarroyos/medium-post-app" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuccaMontarroyos&repo=medium-post-app&theme=tokyonight&show_owner=true" alt="PostApp Project" />
@@ -80,10 +89,13 @@
 
 ---
  
-### 🌐 Conecte-se Comigo
- 
+## 🌐 Connect With Me
+
 <div align="center"> 
-  <a href="https://instagram.com/lucca_barros03" target="blank_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank_"></a>
-  <a href = "mailto:luccabarros2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luccabarros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:luccabarros2003@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luccabarros" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
